@@ -18,7 +18,7 @@ A simple **Space Invader game** built using Python. This project demonstrates ba
 ## 🛠️ Tech Stack
 
 - **Language:** Python
-- **Library:** Pygame (or mention your library if different)
+- **Library:** Pygame 
 
 ---
 
